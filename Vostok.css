@@ -384,7 +384,7 @@ blockquote {
 		margin: 1cm; /* Combiné avec le margin de #wrapper */
 	}
 
-	html {font-size: 15px;}
+	html {font-size: 18px;}
 
 	#wrapper {
 		max-width: none;
